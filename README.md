@@ -21,5 +21,6 @@ The data pushed to Edge Impulse originates from the Google public voice datasets
 
 The link to the Edge Impulse ML project is: https://studio.edgeimpulse.com/public/83416/latest
 
+PS. Don't forget to unzip the Edge-Impulse-SDK files :)
 
 
